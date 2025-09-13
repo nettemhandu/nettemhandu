@@ -10,7 +10,7 @@
 ✨ [Her Jozi Circle](https://github.com/nettemhandu/Her-Jozi-Circle)  
 *A hands-on project exploring frontend, backend, APIs, and databases while building community.*  
 
-✨ Also documenting my growth here: [My Learning Journey](https://github.com/nettemhandu/My-learning-journey)  
+✨ *Also documenting my growth here:* [My Learning Journey](https://github.com/nettemhandu/My-learning-journey)  
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌈 Outside of Code  
+## 🌈 Outside of Code
 📚 Reading | 🏃 Running | 🏺 History | 👀 Reddit lurker
 
 ---
