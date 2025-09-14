@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Project 
 ✨ [Her Jozi Circle](https://github.com/nettemhandu/Her-Jozi-Circle)  
 *A hands-on project exploring frontend, backend, APIs, and databases while building community.*  
 
