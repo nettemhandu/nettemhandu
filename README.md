@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
@@ -48,9 +48,36 @@
 </div>
 
 ---
+## Beyond the Code 🌟
 
-## 🌈 Outside of Code
-📚 Reading | 🏃 Running | 🏺 History | 👀 Reddit lurker
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/book-shelf.png" width="40"/>
+      <br/>
+      <strong>Avid Reader</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/running.png" width="40"/>
+      <br/>
+      <strong>Marathon Runner</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/coliseum.png" width="40"/>
+      <br/>
+      <strong>History Lover</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/reddit.png" width="40"/>
+      <br/>
+      <strong>Reddit Explorer</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
