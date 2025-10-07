@@ -1,66 +1,86 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Antonette!%20👾&fontColor=fff&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=170&section=header&text=Hi,%20I'm%20Antonette!%20🚀&fontColor=58A6FF&fontSize=36&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Aspiring+Full-stack+Engineer;Quality+Assurance+%26+Testing+Specialist;Driven+%26+Results-Oriented;Collaborative+Team+Player;Creative+Frontend+Enthusiast;Community+Builder+at+Heart)](https://git.io/typing-svg)
-
-<br />
-
-### 🎯 Currently Exploring
-**Frontend Development** • **API Integration** • **Database Design** • **Testing Methodologies**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ASPIRING+SOFTWARE+ENGINEER;QA+%26+TESTING+SPECIALIST;RESULTS-DRIVEN+DEVELOPER;FRONTEND+ENTHUSIAST;COMMUNITY+BUILDER)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Featured Projects
+## 💫 Project Highlights
 
-<div align="left">
-
-### ✨ [Her Jozi Circle](https://github.com/nettemhandu/Her-Jozi-Circle) 
-*A comprehensive community platform exploring full-stack development with frontend, backend, APIs, and databases*
-
-### 📚 [My Learning Journey](https://github.com/nettemhandu/My-learning-journey)
-*Documenting my growth, challenges, and breakthroughs in software engineering*
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏙️ Her Jozi Circle</h3>
+      <p><em>Community platform with full-stack development</em></p>
+      <a href="https://github.com/nettemhandu/Her-Jozi-Circle">
+        <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📖 Learning Journey</h3>
+      <p><em>Documenting growth in software engineering</em></p>
+      <a href="https://github.com/nettemhandu/My-learning-journey">
+        <img src="https://img.shields.io/badge/Follow_Journey-238636?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technology Stack
 
 <div align="center">
 
-### 💻 Programming & Markup
-![skills](https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark&perline=5)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🛠️ Frameworks & Tools
-![skills](https://skillicons.dev/icons?i=flask,nodejs,git,github,mysql&theme=dark&perline=5)
+### Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nettemhandu&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nettemhandu&theme=radical&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nettemhandu&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🌈 Beyond the Code
+## 🌟 Beyond Coding
 
-📚 **Reading Enthusiast** | 🏃 **Fitness Runner** | 🏺 **History Buff** | 👀 **Reddit Explorer**
+<table align="center">
+  <tr>
+    <td align="center">📚<br/>Reading</td>
+    <td align="center">🏃‍♀️<br/>Running</td>
+    <td align="center">🏺<br/>History</td>
+    <td align="center">👀<br/>Reddit</td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonette-mhandu-2447a9240)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettemhandu)
+<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonette-mhandu-2447a9240)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nettemhandu)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&reversal=true)
 
 </div>
