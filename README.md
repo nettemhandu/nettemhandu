@@ -7,7 +7,7 @@
 ---
 
 ## Featured Projects  
-
+   
 <table align="center">
   <tr>
     <td align="center" width="400">
