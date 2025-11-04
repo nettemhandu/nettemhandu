@@ -48,7 +48,7 @@
 </div>
 
 ---
-## Beyond the Code🌟
+## Beyond the Code 🌟
 
 <div align="center">
 
