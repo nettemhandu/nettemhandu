@@ -28,34 +28,67 @@
 </table>
 
 ---
+## 🛠️ My Tech Galaxy  
 
-## 🛠️ My Tech Constellation  
+<div align="center" style="position: relative; width: 300px; height: 300px; margin: auto;">
 
-<div align="center" style="position: relative; width: 250px; height: 250px; margin: auto;">
-
-  <!-- Center: your name / dev icon -->
-  <div style="position: absolute; top: 100px; left: 100px;">
+  <!-- Center Hub -->
+  <div style="position: absolute; top: 125px; left: 125px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
   </div>
 
-  <!-- Circular orbit icons -->
-  <div style="position: absolute; top: 0; left: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
-  </div>
-  <div style="position: absolute; top: 50px; left: 200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
-  </div>
-  <div style="position: absolute; top: 150px; left: 200px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-  </div>
-  <div style="position: absolute; top: 200px; left: 100px;">
+  <!-- Frontend Orbit -->
+  <div style="position: absolute; top: 20px; left: 125px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
   </div>
-  <div style="position: absolute; top: 150px; left: 0px;">
+  <div style="position: absolute; top: 50px; left: 225px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
   </div>
-  <div style="position: absolute; top: 50px; left: 0px;">
+  <div style="position: absolute; top: 200px; left: 225px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  </div>
+  <div style="position: absolute; top: 230px; left: 125px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
+  </div>
+  <div style="position: absolute; top: 200px; left: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+  </div>
+  <div style="position: absolute; top: 50px; left: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  </div>
+
+  <!-- Backend Orbit -->
+  <div style="position: absolute; top: 20px; left: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+  </div>
+  <div style="position: absolute; top: 230px; left: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
+  </div>
+  <div style="position: absolute; top: 20px; left: 200px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET" />
+  </div>
+  <div style="position: absolute; top: 230px; left: 200px;">
+    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="40" height="40" title="Javalin" />
+  </div>
+  <div style="position: absolute; top: 125px; left: 0px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
+  </div>
+  <div style="position: absolute; top: 125px; left: 250px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
+  </div>
+
+  <!-- Dev Tools / QA Orbit -->
+  <div style="position: absolute; top: 80px; left: 125px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" title="Git" />
+  </div>
+  <div style="position: absolute; top: 170px; left: 125px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35" title="Docker" />
+  </div>
+  <div style="position: absolute; top: 125px; left: 80px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" title="VS Code" />
+  </div>
+  <div style="position: absolute; top: 125px; left: 170px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="35" height="35" title="JUnit" />
   </div>
 
 </div>
