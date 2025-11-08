@@ -37,6 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="50" height="50" title="Javalin (Lightweight Java Web Framework)" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
@@ -44,10 +45,9 @@
 
 <br>
 
-**Python** • **Java** • **C#** • **.NET** • **Flask** • **HTML5** • **CSS3** • **JavaScript** • **MySQL**
+**Python** • **Java** • **C#** • **.NET** • **Javalin** • **Flask** • **HTML5** • **CSS3** • **JavaScript** • **MySQL**
 
 </div>
-
 ---
 ## Beyond the Code 🌟
 
