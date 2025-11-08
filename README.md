@@ -29,48 +29,39 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ My Tech Constellation  
 
-<div align="center">
+<div align="center" style="position: relative; width: 250px; height: 250px; margin: auto;">
 
-<!-- Backend & Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> **Python** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> **Java** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> **C#** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" /> **.NET** &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="40" height="40" title="Javalin" /> **Javalin** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" /> **Flask** &nbsp;&nbsp;
+  <!-- Center: your name / dev icon -->
+  <div style="position: absolute; top: 100px; left: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
+  </div>
 
-<br><br>
-
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> **HTML5** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> **CSS3** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> **JavaScript** &nbsp;&nbsp;
-
-<br><br>
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> **MySQL** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="EoD SQL" /> **EoD SQL** &nbsp;&nbsp;
-
-<br><br>
-
-<!-- Dev Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> **Git** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> **GitHub** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> **Docker** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> **VS Code** &nbsp;&nbsp;
-
-<br><br>
-
-<!-- Testing -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40" height="40" /> **JUnit** &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python unittest/pytest" /> **Python Tests** &nbsp;&nbsp;
+  <!-- Circular orbit icons -->
+  <div style="position: absolute; top: 0; left: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  </div>
+  <div style="position: absolute; top: 50px; left: 200px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+  </div>
+  <div style="position: absolute; top: 150px; left: 200px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  </div>
+  <div style="position: absolute; top: 200px; left: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+  </div>
+  <div style="position: absolute; top: 150px; left: 0px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+  </div>
+  <div style="position: absolute; top: 50px; left: 0px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
+  </div>
 
 </div>
 
 
+---
 ## Beyond the Code 🌟
 
 <div align="center">
