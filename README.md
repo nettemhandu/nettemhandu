@@ -28,28 +28,28 @@
 </table>
 
 ---
-## 🛠️ My Tech Star
+## 🛠️ My Tech Star  
 
 <div align="center" style="position: relative; width: 300px; height: 300px; margin: auto;">
 
-  <!-- Center point -->
+  <!-- Center -->
   <div style="position: absolute; top: 125px; left: 125px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
     <div>GitHub</div>
   </div>
 
   <!-- Star points -->
-  <div style="position: absolute; top: 0; left: 125px; text-align: center;">
+  <div style="position: absolute; top: 0px; left: 125px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" />
     <div>Python</div>
   </div>
 
-  <div style="position: absolute; top: 60px; left: 220px; text-align: center;">
+  <div style="position: absolute; top: 60px; left: 230px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
     <div>Java</div>
   </div>
 
-  <div style="position: absolute; top: 190px; left: 220px; text-align: center;">
+  <div style="position: absolute; top: 200px; left: 230px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" />
     <div>JavaScript</div>
   </div>
@@ -59,18 +59,18 @@
     <div>HTML5</div>
   </div>
 
-  <div style="position: absolute; top: 190px; left: 30px; text-align: center;">
+  <div style="position: absolute; top: 200px; left: 20px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" />
     <div>CSS3</div>
   </div>
 
-  <div style="position: absolute; top: 60px; left: 30px; text-align: center;">
+  <div style="position: absolute; top: 60px; left: 20px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35" />
     <div>C#</div>
   </div>
 
-  <!-- Additional points -->
-  <div style="position: absolute; top: 125px; left: 0; text-align: center;">
+  <!-- Extra points -->
+  <div style="position: absolute; top: 125px; left: 0px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" height="35" />
     <div>.NET</div>
   </div>
@@ -81,6 +81,7 @@
   </div>
 
 </div>
+
 
 
 ---
