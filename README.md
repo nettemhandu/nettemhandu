@@ -28,59 +28,29 @@
 </table>
 
 ---
-## 🛠️ My Developer Superpowers  
+
+## 🛠️ Tech Stack  
 
 <div align="center">
-
-### ⚡ Frontend – “The Face of the App”
-The part everyone sees and interacts with.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-<br>
-**HTML5 • CSS3 • JavaScript**
-
----
-
-### ⚡ Backend – “The Engine Room”
-Where the logic lives and magic happens.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="50" height="50" title="Javalin" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" />
-<br>
-**Java • Python • C# • .NET • Javalin • Flask**
-
----
-
-### ⚡ Database – “The Treasure Chest”
-Where all the data is safely stored and managed.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" title="EoD SQL" />
-<br>
-**MySQL • EoD SQL**
-
----
-
-### ⚡ Dev Tools / Platforms – “My Utility Belt”
-Tools that make coding faster, cleaner, and collaborative.  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-<br>
-**Git • GitHub • Docker • VS Code**
-
----
-
-### ⚡ Testing / QA – “The Safety Net”
-Making sure everything works and nothing breaks.  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python unittest/pytest" />
 <br>
-**JUnit • Python unittest/pytest**
+**Python • Java • C# • .NET • Javalin • Flask • HTML5 • CSS3 • JavaScript • MySQL • EoD SQL • Git • GitHub • Docker • VS Code • JUnit • Python unittest/pytest**
 
 </div>
 
