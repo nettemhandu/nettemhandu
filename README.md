@@ -48,7 +48,8 @@
 **Python** • **Java** • **C#** • **.NET** • **Javalin** • **Flask** • **HTML5** • **CSS3** • **JavaScript** • **MySQL**
 
 </div>
----
+
+
 ## Beyond the Code 🌟
 
 <div align="center">
