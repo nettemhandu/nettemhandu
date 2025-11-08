@@ -28,60 +28,46 @@
 </table>
 
 ---
-## 🛠️ My Tech Star  
+## 🛠️ Tech Stack  
 
-<div align="center" style="position: relative; width: 300px; height: 300px; margin: auto;">
+<div align="center">
 
-  <!-- Center -->
-  <div style="position: absolute; top: 125px; left: 125px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-    <div>GitHub</div>
-  </div>
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> **Python** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> **Java** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> **C#** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" /> **.NET** &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="40" height="40" title="Javalin" /> **Javalin** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" /> **Flask**
 
-  <!-- Star points -->
-  <div style="position: absolute; top: 0px; left: 125px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" />
-    <div>Python</div>
-  </div>
+<br><br>
 
-  <div style="position: absolute; top: 60px; left: 230px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
-    <div>Java</div>
-  </div>
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> **HTML5** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> **CSS3** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> **JavaScript**
 
-  <div style="position: absolute; top: 200px; left: 230px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" />
-    <div>JavaScript</div>
-  </div>
+<br><br>
 
-  <div style="position: absolute; top: 250px; left: 125px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" />
-    <div>HTML5</div>
-  </div>
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> **MySQL** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="EoD SQL" /> **EoD SQL**
 
-  <div style="position: absolute; top: 200px; left: 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" />
-    <div>CSS3</div>
-  </div>
+<br><br>
 
-  <div style="position: absolute; top: 60px; left: 20px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35" />
-    <div>C#</div>
-  </div>
+<!-- Dev Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> **Git** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> **GitHub** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> **Docker** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> **VS Code**
 
-  <!-- Extra points -->
-  <div style="position: absolute; top: 125px; left: 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" height="35" />
-    <div>.NET</div>
-  </div>
+<br><br>
 
-  <div style="position: absolute; top: 125px; left: 250px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/server.svg" width="35" height="35" title="Javalin" />
-    <div>Javalin</div>
-  </div>
+<!-- Testing -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40" height="40" /> **JUnit** &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python unittest/pytest" /> **Python Tests**
 
 </div>
-
 
 
 ---
