@@ -12,7 +12,7 @@
   <tr>
     <td align="center" width="400">
       <h3>✨ Her Jozi Circle</h3>
-      <p><em>A hands-on project exploring frontend, backend, APIs, and databases while building community.</em></p>
+      <p><em>A hands-on project exploring frontend, backend, API's, and databases while building community.</em></p>
       <a href="https://github.com/nettemhandu/Her-Jozi-Circle">
         <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
