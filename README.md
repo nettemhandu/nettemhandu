@@ -76,7 +76,7 @@
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/coliseum.png" width="40"/>
       <br/>
-      <strong>History Lover</strong>
+      <strong>History Enthuasist</strong>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/reddit.png" width="40"/>
