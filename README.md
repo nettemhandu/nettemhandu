@@ -18,10 +18,10 @@
       </a>
     </td>
     <td align="center" width="400">
-      <h3>📚 My Learning Journey</h3>
-      <p><em>Documenting my growth, challenges, and breakthroughs in software engineering.</em></p>
-      <a href="https://github.com/nettemhandu/My-learning-journey">
-        <img src="https://img.shields.io/badge/Follow_Journey-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+      <h3> 🛠 BugTest Project</h3>
+      <p><em>Automated testing for <strong>BugBank</strong>, a web-based banking application, ensuring reliability and seamless user experience.</em></p>
+      <a href="https://github.com/nettemhandu/BugBank-Selenium-Testing">
+        <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
