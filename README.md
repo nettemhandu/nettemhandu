@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=+Software+Developer;Quality+Assurance+%26+Testing+Engineer;Driven+%26+Results-Oriented;Collaborator+%26+Team+Player;Creative+Frontend+Enthusiast;Community+Builder+at+Heart)](https://git.io/typing-svg)
 
---
+---
 
 ## Featured Projects
    
